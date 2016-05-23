@@ -1,0 +1,123 @@
+*{
+    margin: 0 auto;
+    font-family: 'Raleway', sans-serif;
+}
+body{
+    width:100%;
+}
+
+.bilder{
+    float: right;
+    outline: solid;
+    margin: 10px;
+    text-align: center;
+    color: #E7D1E8;
+}
+#leftbar{
+    width: 350px;
+    height: 700px;
+    float:left;
+    background-color: #D8F0EA;
+    display: inline-block;
+}
+
+.navbar{
+    display: inline-block;
+
+    margin-left: 20px;
+    font-size: 20px;
+    text-align:center;
+
+
+}
+h3{
+    color: red;
+}
+a{
+    text-decoration: none;
+    color: black;
+
+}
+#container2{
+    width:1366px;
+}
+a:hover{
+    color: white;
+}
+#container{
+    margin-top: 70px;
+}
+.searchbar{
+    float:right;
+    margin-right: 20px;
+    margin-top: 10px;
+    outline: solid;
+}
+header{
+    background-color: #a0c4e8;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    position: fixed;
+    width: 100%;
+    top: 0;
+
+}
+#logga{
+    width: 100px;
+    height: 50px;
+    margin: 0 auto;
+    float: left;
+    padding-left: 130px;
+}
+.info{
+    float:left;
+    width: 350px;
+    height: 50px;
+    padding: 10px;
+}
+.imitten{
+    text-align: center;
+    padding-top: 10px;
+}
+#topnav{
+    text-align: center;
+    padding-top: 10px;
+}
+.hemsida{
+    margin: 0 auto;
+}
+
+.middlePictures{
+    margin: 0 auto;
+    display:block;
+   width:50%;
+}
+
+/*img.hemsida{display:block;}*/
+
+.bildimitten{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#lösenord{
+    float:right;
+    padding: 10px;
+}
+.login{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding:5px;
+    font-size: 20px;
+}
+footer{
+    background-color:#E7D1E8;
+    bottom: 0;
+    height: 150px;
+    width: 100%;
+    display: inline-block;
+    text-align: center;
+    padding: 10px;
+
+}
