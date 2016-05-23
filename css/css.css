@@ -39,13 +39,14 @@ a{
 
 }
 #container2{
-    width:1366px;
+    width:100%;
 }
 a:hover{
     color: white;
 }
 #container{
     margin-top: 70px;
+    margin-right: 10px;
 }
 .searchbar{
     float:right;
@@ -90,7 +91,7 @@ header{
 .middlePictures{
     margin: 0 auto;
     display:block;
-   width:50%;
+    width:700px;
     /*Random comment*/
 }
 
