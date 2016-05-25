@@ -1,16 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b079c089-2bce-44c8-9733-cd2f422fc971" name="Default" comment="Change in CSS">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index-howto.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index-iframe.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/login.html" />
+    <list default="true" id="b079c089-2bce-44c8-9733-cd2f422fc971" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data1/25035_2521a2b74edaf34e0d5051774fa87dd1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data1/26111_dcb0baa7100856caed90067aa94b36ac.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data1/images/25035_2521a2b74edaf34e0d5051774fa87dd1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data1/images/26111_dcb0baa7100856caed90067aa94b36ac.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data1/images/kaka_3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data1/images/sng.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data1/kaka (3).jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data1/säng.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data1/tooltips/25035_2521a2b74edaf34e0d5051774fa87dd1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data1/tooltips/26111_dcb0baa7100856caed90067aa94b36ac.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data1/tooltips/kaka_3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data1/tooltips/sng.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/engine1/ws-ctrl-bootstrap.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/engine1/ws-ctrl-bootstrap.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/engine1/ws-ctrl-bootstrap.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/engine1/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/engine1/script.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/engine1/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/engine1/style.mod.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/engine1/wowslider.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/engine1/wowslider.mod.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/engine1/ws-ctrl-bootstrap.svg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Kontakt.html" afterPath="$PROJECT_DIR$/Kontakt.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Kuddar.html" afterPath="$PROJECT_DIR$/Kuddar.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Rekomenderat.html" afterPath="$PROJECT_DIR$/Rekomenderat.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Sängar.html" afterPath="$PROJECT_DIR$/Sängar.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/css.css" afterPath="$PROJECT_DIR$/css/css.css" />
     </list>
     <ignored path="Decorum.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -34,7 +49,7 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.3207547">
+            <state vertical-scroll-proportion="-1.5660378">
               <caret line="13" column="7" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
               <folding>
                 <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -83,10 +98,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index-howto.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index-howto.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index-howto.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.33333334">
+            <state vertical-scroll-proportion="-6.076923">
               <caret line="148" column="4" selection-start-line="148" selection-start-column="4" selection-end-line="148" selection-end-column="4" />
               <folding />
             </state>
@@ -103,11 +118,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="css.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="css.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/css.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.65384614">
-              <caret line="39" column="1" selection-start-line="39" selection-start-column="1" selection-end-line="39" selection-end-column="1" />
+            <state vertical-scroll-proportion="0.82067513">
+              <caret line="70" column="20" selection-start-line="70" selection-start-column="20" selection-end-line="70" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -134,13 +149,13 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/css/css.css" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/Rekomenderat.html" />
         <option value="$PROJECT_DIR$/Sängar.html" />
         <option value="$PROJECT_DIR$/Kontakt.html" />
         <option value="$PROJECT_DIR$/login.html" />
         <option value="$PROJECT_DIR$/Kuddar.html" />
+        <option value="$PROJECT_DIR$/css/css.css" />
       </list>
     </option>
   </component>
@@ -197,34 +212,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="Decorum" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Decorum" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Decorum" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sangar" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Decorum" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Decorum" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="kuddar" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -346,14 +333,20 @@
       <option name="project" value="LOCAL" />
       <updated>1464172122589</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Change in CSS">
+      <created>1464173368284</created>
+      <option name="number" value="00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1464173368284</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2489019" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2489019" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16850394" sideWeight="0.4941435" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16850394" sideWeight="0.5058565" order="7" side_tool="true" content_ui="tabs" />
@@ -522,24 +515,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/css.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.65384614">
-          <caret line="39" column="1" selection-start-line="39" selection-start-column="1" selection-end-line="39" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.3207547">
-          <caret line="13" column="7" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
-          <folding>
-            <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Rekomenderat.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-4.0384617">
@@ -582,8 +557,26 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index-howto.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33333334">
+        <state vertical-scroll-proportion="-6.076923">
           <caret line="148" column="4" selection-start-line="148" selection-start-column="4" selection-end-line="148" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.5660378">
+          <caret line="13" column="7" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+          <folding>
+            <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/css.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.82067513">
+          <caret line="70" column="20" selection-start-line="70" selection-start-column="20" selection-end-line="70" selection-end-column="20" />
           <folding />
         </state>
       </provider>
