@@ -16,7 +16,7 @@ body{
 #leftbar{
     width: 350px;
     height: 700px;
-    float:left;
+    margin: 0 auto;
     background-color: #D8F0EA;
     display: inline-block;
 }
