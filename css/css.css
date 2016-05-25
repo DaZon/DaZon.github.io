@@ -7,11 +7,11 @@ body{
 }
 
 .bilder{
-    float: right;
     outline: solid;
     margin: 10px;
     text-align: center;
     color: #E7D1E8;
+    float:right;
 }
 #leftbar{
     width: 350px;
@@ -71,7 +71,18 @@ header{
     padding-left: 100px;
 }
 .picshow{
-    width: 1000px;
+    width: 960px;
+}
+#kontaktinfosida{
+    width: 350px;
+}
+#pil{
+    width: 300px;
+    height: 300px;
+    padding-left: 30px;
+}
+#kontaktinfo{
+    text-align:center;
 }
 .info{
     float:left;
