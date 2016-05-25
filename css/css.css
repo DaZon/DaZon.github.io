@@ -70,6 +70,9 @@ header{
     float: left;
     padding-left: 100px;
 }
+.picshow{
+    width: 1000px;
+}
 .info{
     float:left;
     width: 350px;
