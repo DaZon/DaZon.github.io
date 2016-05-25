@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="b079c089-2bce-44c8-9733-cd2f422fc971" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Rekomenderat.html" afterPath="$PROJECT_DIR$/Rekomenderat.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/css.css" afterPath="$PROJECT_DIR$/css/css.css" />
     </list>
     <ignored path="Decorum.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -342,7 +340,13 @@
       <option name="project" value="LOCAL" />
       <updated>1464174912864</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Change in CSS">
+      <created>1464175719688</created>
+      <option name="number" value="00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1464175719688</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="ToolWindowManager">
