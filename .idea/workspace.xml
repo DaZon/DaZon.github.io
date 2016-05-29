@@ -3,12 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="b079c089-2bce-44c8-9733-cd2f422fc971" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Kontakt.html" afterPath="$PROJECT_DIR$/Kontakt.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Kuddar.html" afterPath="$PROJECT_DIR$/Kuddar.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Rekomenderat.html" afterPath="$PROJECT_DIR$/Rekomenderat.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Sängar.html" afterPath="$PROJECT_DIR$/Sängar.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/login.html" afterPath="$PROJECT_DIR$/login.html" />
     </list>
     <ignored path="Decorum.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -354,7 +348,13 @@
       <option name="project" value="LOCAL" />
       <updated>1464537451224</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Change in CSS">
+      <created>1464538401748</created>
+      <option name="number" value="00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1464538401748</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="ToolWindowManager">
